@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodDeleveryApp</string>
+    <string name="find_food_you_love">Find Food You Love</string>
+    <string name="indulge_in_the_exquisite_flavors_of_our_culinary_masterpiece_a_symphony_of_succulent_grilled_chicken_nestled_on_a_bed_of_perfectly_seasoned_quinoa_and_adorned_with_a_medley_of_vibrant_roasted_vegetables">Indulge in the exquisite flavors of our culinary masterpiece – a symphony of succulent grilled chicken, nestled on a bed of perfectly seasoned quinoa and adorned with a medley of vibrant, roasted vegetables.</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_to_quickbit">Welcome to QuickBit</string>
+    <string name="elevate_your_dining_experience_with_this_gastronomic_delight_that_transcends_ordinary_meals_into_extraordinary_feasts">Elevate your dining experience with this gastronomic delight that transcends ordinary meals into extraordinary feasts!</string>
+
+</resources>
